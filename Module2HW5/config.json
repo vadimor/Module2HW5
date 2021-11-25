@@ -1,0 +1,8 @@
+{
+  "LoggerServiceConfig": {
+    "TimeFormat": "dd.MM.yyyy hh:mm:ss",
+    "TimeFormatFileName": "hh.mm.ss dd.MM.yyyy",
+    "DirectoryPath": "./Logs/",
+    "FileExtension": ".txt"
+  }
+}
